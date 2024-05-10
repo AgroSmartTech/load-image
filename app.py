@@ -11,7 +11,7 @@ from PIL import ImageShow
 # def hello_world():
     # return 'Hello World!'
 
-image_path = "/usr/bin/image.gif"
+image_path = "/usr/share/load-image/barto-image.gif"
 
 image = Image.open(image_path)
 
